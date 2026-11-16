@@ -1,0 +1,5 @@
+INVENTARIO-MASM-V1
+3
+ABC-101|Teclado mecanico|125000|12
+MSE-205|Mouse inalambrico|385.00|25
+ABC-101|Codigo repetido|1000|5

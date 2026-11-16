@@ -1,0 +1,7 @@
+INVENTARIO-MASM-V1
+5
+ABC-101|Teclado mecanico|125000|12
+MSE-205|Mouse inalambrico|38500|25
+USB-310|Memoria USB 64 GB|18950|40
+CBL-042|Protector de cable|1205|30
+ADP-077|Adaptador USB-C|24900|8
